@@ -1,6 +1,6 @@
 # IoT Attendance Verification System
 
-![System Overview](system_overview.png)
+
 
 ## Overview
 
